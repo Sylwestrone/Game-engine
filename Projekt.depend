@@ -1,0 +1,1156 @@
+# depslib dependency file v1.0
+1488402806 source:c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<SFML/Graphics.hpp>
+	"game.h"
+	"map.h"
+
+1486739997 c:\sfml-2.4.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1486739997 c:\sfml-2.4.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1486740055 c:\sfml-2.4.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\utf.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\string.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\thread.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\threadlocalptr.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\vector2.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\system\vector3.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1486740055 c:\sfml-2.4.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\contextsettings.hpp
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\window\windowstyle.hpp
+
+1486739997 c:\sfml-2.4.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1486739997 c:\sfml-2.4.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\rect.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\primitivetype.hpp
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1486740055 c:\sfml-2.4.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1486740055 c:\sfml-2.4.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1486740055 c:\sfml-2.4.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\glsl.inl
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1486739998 c:\sfml-2.4.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1487876284 source:c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\game.cpp
+
+1488135298 c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\game.h
+
+1488397737 c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\map.h
+	"tile.h"
+
+1488397801 source:c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\map.cpp
+	"map.h"
+
+1487880465 source:c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\tile.cpp
+	"tile.h"
+
+1487880481 c:\users\michael\onedrive\uczelnia\inzyneria oprogramowania\projekt\tile.h
+	<string>
+
+1487876284 source:c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\game.cpp
+
+1488447103 source:c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<SFML/Graphics.hpp>
+	"game.h"
+	"map.h"
+	"component.h"
+
+1488135298 c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\game.h
+
+1488444064 c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\map.h
+	"tile.h"
+
+1487880481 c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\tile.h
+	<string>
+
+1488438139 source:c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\map.cpp
+	"map.h"
+
+1487880465 source:c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\tile.cpp
+	"tile.h"
+
+1488438334 c:\users\michael\skydrive\uczelnia\inzyneria oprogramowania\projekt\component.h
+
+1490804663 source:c:\users\michael\onedrive\gra-projekt\game.cpp
+	"Game.h"
+	<chrono>
+	<fstream>
+	<iostream>
+	<SFML/Graphics.hpp>
+	<thread>
+	<typeinfo>
+	"Constants.h"
+	"GameLibrary.h"
+	"GraphicsComponent.h"
+	"Map.h"
+	"MovementComponent.h"
+	"PathDisplaySystem.h"
+	"RandomNumberGenerator.h"
+
+1490823014 source:c:\users\michael\onedrive\gra-projekt\map.cpp
+	"map.h"
+	<iostream>
+	"Constants.h"
+	"RandomNumberGenerator.h"
+	"Tile.h"
+
+1490822066 c:\users\michael\onedrive\gra-projekt\map.h
+	"SFML/Graphics.hpp"
+
+1490817190 c:\users\michael\onedrive\gra-projekt\tile.h
+	<string>
+
+1490717530 source:c:\users\michael\onedrive\gra-projekt\tile.cpp
+	"tile.h"
+
+1490803763 source:c:\users\michael\onedrive\gra-projekt\main.cpp
+	<iostream>
+	<thread>
+	"Component.h"
+	"Game.h"
+	"Map.h"
+
+1490741958 c:\users\michael\onedrive\gra-projekt\game.h
+	"InputManager.h"
+	"Map.h"
+	"GameEntity.h"
+
+1490118881 c:\users\michael\onedrive\gra-projekt\component.h
+
+1492550884 source:c:\users\michael\skydrive\gra-projekt\game.cpp
+	"Game.h"
+	<chrono>
+	<fstream>
+	<iostream>
+	<SFML/Graphics.hpp>
+	<thread>
+	<typeinfo>
+	"Constants.h"
+	"ContextMenuOrders.h"
+	"GameLibrary.h"
+	"GraphicsComponent.h"
+	"Map.h"
+	"MovementComponent.h"
+	"PathDisplaySystem.h"
+	"RandomNumberGenerator.h"
+	"TaskExecuteComponent.h"
+
+1492617996 source:c:\users\michael\skydrive\gra-projekt\map.cpp
+	"Map.h"
+	<iostream>
+	<vector>
+	"Constants.h"
+	"RandomNumberGenerator.h"
+	"Tile.h"
+
+1492603930 c:\users\michael\skydrive\gra-projekt\map.h
+	"SFML/Graphics.hpp"
+
+1492526612 c:\users\michael\skydrive\gra-projekt\tile.h
+	<string>
+
+1491409313 source:c:\users\michael\skydrive\gra-projekt\tile.cpp
+	"Tile.h"
+
+1492604328 source:c:\users\michael\skydrive\gra-projekt\main.cpp
+	<iostream>
+	<thread>
+	"SFML\OpenGL.hpp"
+	"Component.h"
+	"Game.h"
+	"Map.h"
+
+1492031420 c:\users\michael\skydrive\gra-projekt\game.h
+	"ContextMenuOrders.h"
+	"GameClock.h"
+	"GameEntity.h"
+	"InputManager.h"
+	"Map.h"
+	"TaskExecuteSystem.h"
+
+1492530227 c:\users\michael\skydrive\gra-projekt\component.h
+
+1488831688 c:\users\michael\onedrive\gra-projekt\maploader.h
+
+1490804151 source:c:\users\michael\onedrive\gra-projekt\inputmanager.cpp
+	"InputManager.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	"Game.h"
+	"GameEntity.h"
+	"MovementComponent.h"
+
+1489956573 c:\users\michael\onedrive\gra-projekt\inputmanager.h
+
+1490817341 c:\users\michael\onedrive\gra-projekt\constants.h
+
+1489956573 c:\users\michael\skydrive\gra-projekt\inputmanager.h
+
+1492546876 c:\users\michael\skydrive\gra-projekt\constants.h
+
+1492549733 source:c:\users\michael\skydrive\gra-projekt\inputmanager.cpp
+	"InputManager.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	"Game.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"MovementComponent.h"
+
+1490690449 c:\users\michael\onedrive\gra-projekt\gameentity.h
+	<vector>
+
+1492540768 c:\users\michael\skydrive\gra-projekt\gameentity.h
+	<memory>
+	<vector>
+	"Component.h"
+
+1492535327 c:\users\michael\skydrive\gra-projekt\graphicscomponent.h
+	"SFML/Graphics.hpp"
+	"Component.h"
+
+1492540665 source:c:\users\michael\skydrive\gra-projekt\gameentity.cpp
+	"GameEntity.h"
+	<iostream>
+	"Constants.h"
+	"GraphicsComponent.h"
+
+1492539854 source:c:\users\michael\skydrive\gra-projekt\graphicscomponent.cpp
+	"GameEntity.h"
+	"GraphicsComponent.h"
+	<iostream>
+
+1489573841 source:c:\users\michael\skydrive\gra-projekt\component.cpp
+	"Component.h"
+
+1489573841 source:c:\users\michael\onedrive\gra-projekt\component.cpp
+	"Component.h"
+
+1489859247 c:\users\michael\onedrive\gra-projekt\graphicscomponent.h
+	"SFML/Graphics.hpp"
+	"Component.h"
+
+1490802877 source:c:\users\michael\onedrive\gra-projekt\gameentity.cpp
+	"GameEntity.h"
+	<iostream>
+	"Constants.h"
+	"GraphicsComponent.h"
+
+1490640714 source:c:\users\michael\onedrive\gra-projekt\graphicscomponent.cpp
+	"GameEntity.h"
+	"GraphicsComponent.h"
+	<iostream>
+
+1489950998 source:c:\users\michael\onedrive\gra-projekt\physicscomponent.cpp
+	"PhysicsComponent.h"
+	"GameEntity.h"
+	<iostream>
+	"Constants.h"
+	"RandomNumberGenerator.h"
+
+1489650570 c:\users\michael\onedrive\gra-projekt\physicscomponent.h
+	"Component.h"
+
+1489623727 c:\users\michael\onedrive\gra-projekt\randomnumbergenerator.h
+	<random>
+
+1490017263 source:c:\users\michael\onedrive\gra-projekt\randomnumbergenerator.cpp
+	"RandomNumberGenerator.h"
+	<chrono>
+
+1489654170 c:\users\michael\skydrive\gra-projekt\physicscomponent.h
+	"Component.h"
+
+1489954598 source:c:\users\michael\skydrive\gra-projekt\physicscomponent.cpp
+	"PhysicsComponent.h"
+	"GameEntity.h"
+	<iostream>
+	"Constants.h"
+	"RandomNumberGenerator.h"
+
+1489623727 c:\users\michael\skydrive\gra-projekt\randomnumbergenerator.h
+	<random>
+
+1491909094 source:c:\users\michael\skydrive\gra-projekt\randomnumbergenerator.cpp
+	"RandomNumberGenerator.h"
+	<chrono>
+
+1490364706 c:\users\michael\skydrive\gra-projekt\pathfindingcomponent.h
+	<vector>
+	<list>
+	"Component.h"
+
+1490613941 source:c:\users\michael\skydrive\gra-projekt\pathfindingcomponent.cpp
+	"PathFindingComponent.h"
+	<cmath>
+	"Constants.h"
+	"Map.h"
+	"GameEntity.h"
+	<iostream>
+
+1492526022 c:\users\michael\skydrive\gra-projekt\gamelibrary.h
+	"GraphicsComponent.h"
+	"GameEntity.h"
+	<iostream>
+
+1490084531 c:\users\michael\onedrive\gra-projekt\gamelibrary.h
+	"GraphicsComponent.h"
+	"GameEntity.h"
+
+1490361106 c:\users\michael\onedrive\gra-projekt\pathfindingcomponent.h
+	<vector>
+	<list>
+	"Component.h"
+
+1490466948 source:c:\users\michael\onedrive\gra-projekt\pathfindingcomponent.cpp
+	"PathFindingComponent.h"
+	<cmath>
+	"Constants.h"
+	"Map.h"
+	"GameEntity.h"
+	<iostream>
+
+1492525150 source:c:\users\michael\skydrive\gra-projekt\gamelibrary.cpp
+	"GameLibrary.h"
+	"Constants.h"
+	<iostream>
+
+1490214514 source:c:\users\michael\onedrive\gra-projekt\gamelibrary.cpp
+	"GameLibrary.h"
+
+1492546537 source:c:\users\michael\skydrive\gra-projekt\movementcomponent.cpp
+	"MovementComponent.h"
+	<iostream>
+	<limits>
+	"GameEntity.h"
+	"Constants.h"
+	"GameLibrary.h"
+	"RandomNumberGenerator.h"
+	<chrono>
+
+1492535312 c:\users\michael\skydrive\gra-projekt\movementcomponent.h
+	<vector>
+	<list>
+	"Component.h"
+	"Map.h"
+
+1490731038 c:\users\michael\onedrive\gra-projekt\movementcomponent.h
+	<vector>
+	<list>
+	"Component.h"
+	"Map.h"
+
+1490817551 source:c:\users\michael\onedrive\gra-projekt\movementcomponent.cpp
+	"MovementComponent.h"
+	<iostream>
+	"GameEntity.h"
+	"Constants.h"
+	"RandomNumberGenerator.h"
+
+1490742724 source:c:\users\michael\onedrive\gra-projekt\pathdisplaysystem.cpp
+	"PathDisplaySystem.h"
+	<iostream>
+	<typeinfo>
+	"Constants.h"
+	"GameEntity.h"
+	"MovementComponent.h"
+	"RandomNumberGenerator.h"
+
+1490742680 c:\users\michael\onedrive\gra-projekt\pathdisplaysystem.h
+
+1490728107 source:c:\users\michael\onedrive\gra-projekt\pathdisplaysystem.h
+
+1490742680 c:\users\michael\skydrive\gra-projekt\pathdisplaysystem.h
+
+1492095542 source:c:\users\michael\skydrive\gra-projekt\pathdisplaysystem.cpp
+	"PathDisplaySystem.h"
+	<iostream>
+	<typeinfo>
+	"Constants.h"
+	"GameEntity.h"
+	"MovementComponent.h"
+	"RandomNumberGenerator.h"
+
+1496880165 source:c:\users\szali\onedrive\gra-projekt\game.cpp
+	"Game.h"
+	<chrono>
+	<fstream>
+	<iostream>
+	<SFML/Graphics.hpp>
+	<thread>
+	<typeinfo>
+	"Constants.h"
+	"ContextMenuOrders.h"
+	"GameLibrary.h"
+	"ComponentGraphics.h"
+	"Map.h"
+	"ComponentMovement.h"
+	"DebugDisplaySystem.h"
+	"RandomNumberGenerator.h"
+	"ComponentTaskExecute.h"
+
+1496880157 c:\users\szali\onedrive\gra-projekt\game.h
+	<atomic>
+	"Console.h"
+	"ContextMenuOrders.h"
+	"DebugDisplaySystem.h"
+	"GameClock.h"
+	"GameEntity.h"
+	"InputManager.h"
+	"Map.h"
+	"TaskExecuteSystem.h"
+	"TreeGenerationSystem.h"
+
+1489956573 c:\users\szali\onedrive\gra-projekt\inputmanager.h
+
+1496878256 c:\users\szali\onedrive\gra-projekt\map.h
+	<SFML/Graphics.hpp>
+	"Tile.h"
+
+1496871067 c:\users\szali\onedrive\gra-projekt\gameentity.h
+	<memory>
+	<vector>
+	"Component.h"
+
+1496680074 c:\users\szali\onedrive\gra-projekt\constants.h
+	<iostream>
+
+1496868728 c:\users\szali\onedrive\gra-projekt\gamelibrary.h
+	"GameEntity.h"
+	"ComponentGraphics.h"
+
+1495057517 c:\users\szali\onedrive\gra-projekt\graphicscomponent.h
+	"SFML/Graphics.hpp"
+	"Component.h"
+
+1496680247 c:\users\szali\onedrive\gra-projekt\component.h
+	<string>
+	<typeinfo>
+
+1495066936 c:\users\szali\onedrive\gra-projekt\movementcomponent.h
+	<vector>
+	<list>
+	"Component.h"
+	"Map.h"
+
+1490742680 c:\users\szali\onedrive\gra-projekt\pathdisplaysystem.h
+
+1489623727 c:\users\szali\onedrive\gra-projekt\randomnumbergenerator.h
+	<random>
+
+1496871180 source:c:\users\szali\onedrive\gra-projekt\gameentity.cpp
+	"GameEntity.h"
+	<iostream>
+	"Constants.h"
+	"ComponentGraphics.h"
+
+1496879777 source:c:\users\szali\onedrive\gra-projekt\gamelibrary.cpp
+	"GameLibrary.h"
+	"ComponentDestructible.h"
+	"ComponentLiftable.h"
+	"Constants.h"
+	"Map.h"
+	"ComponentMovement.h"
+	"ComponentTaskExecute.h"
+
+1495057621 source:c:\users\szali\onedrive\gra-projekt\graphicscomponent.cpp
+	"GameEntity.h"
+	"GraphicsComponent.h"
+	<iostream>
+
+1496880791 source:c:\users\szali\onedrive\gra-projekt\inputmanager.cpp
+	"InputManager.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	"Game.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"ComponentMovement.h"
+
+1496683526 source:c:\users\szali\onedrive\gra-projekt\main.cpp
+	<iostream>
+	<thread>
+	"SFML\OpenGL.hpp"
+	"Constants.h"
+	"Component.h"
+	"Game.h"
+	"Map.h"
+	"Loader.h"
+
+1495069738 source:c:\users\szali\onedrive\gra-projekt\movementcomponent.cpp
+	"MovementComponent.h"
+	<iostream>
+	<limits>
+	"GameEntity.h"
+	"Constants.h"
+	"GameLibrary.h"
+	"RandomNumberGenerator.h"
+	<chrono>
+
+1492095542 source:c:\users\szali\onedrive\gra-projekt\pathdisplaysystem.cpp
+	"PathDisplaySystem.h"
+	<iostream>
+	<typeinfo>
+	"Constants.h"
+	"GameEntity.h"
+	"MovementComponent.h"
+	"RandomNumberGenerator.h"
+
+1491909094 source:c:\users\szali\onedrive\gra-projekt\randomnumbergenerator.cpp
+	"RandomNumberGenerator.h"
+	<chrono>
+
+1496872506 source:c:\users\szali\onedrive\gra-projekt\tile.cpp
+	"Tile.h"
+
+1495072654 c:\users\szali\onedrive\gra-projekt\tile.h
+	<string>
+
+1496878268 source:c:\users\szali\onedrive\gra-projekt\map.cpp
+	"Map.h"
+	<fstream>
+	<iostream>
+	<vector>
+	"Constants.h"
+	"RandomNumberGenerator.h"
+
+1491423441 source:c:\users\szali\onedrive\gra-projekt\gameclock.cpp
+	"GameClock.h"
+	<sstream>
+
+1491422590 c:\users\szali\onedrive\gra-projekt\gameclock.h
+	<string>
+
+1491422590 c:\users\michael\skydrive\gra-projekt\gameclock.h
+	<string>
+
+1491423441 source:c:\users\michael\skydrive\gra-projekt\gameclock.cpp
+	"GameClock.h"
+	<sstream>
+
+1491830435 source:c:\users\michael\skydrive\gra-projekt\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1491827800 c:\users\michael\skydrive\gra-projekt\menu.h
+	"SFML/Graphics.hpp"
+
+1492512848 source:c:\users\michael\skydrive\gra-projekt\contextmenuorders.cpp
+	"ContextMenuOrders.h"
+	<iostream>
+	"GameLibrary.h"
+	"TaskExecuteSystem.h"
+
+1492510185 c:\users\michael\skydrive\gra-projekt\contextmenuorders.h
+	<memory>
+	<vector>
+	"SFML/Graphics.hpp"
+	"Order.h"
+
+1492448838 c:\users\michael\skydrive\gra-projekt\order.h
+	<string>
+
+1492514214 source:c:\users\michael\skydrive\gra-projekt\order.cpp
+	"Order.h"
+	"TaskExecuteSystem.h"
+
+1491909170 source:c:\users\michael\skydrive\gra-projekt\treegenerationsystem.cpp
+	"TreeGenerationSystem.h"
+
+1491940830 c:\users\michael\skydrive\gra-projekt\treegenerationsystem.h
+	<vector>
+
+1495059221 source:c:\users\szali\onedrive\gra-projekt\contextmenuorders.cpp
+	"ContextMenuOrders.h"
+	<iostream>
+	"GameLibrary.h"
+	"TaskExecuteSystem.h"
+
+1495058649 c:\users\szali\onedrive\gra-projekt\contextmenuorders.h
+	<memory>
+	<vector>
+	"SFML/Graphics.hpp"
+	"Order.h"
+
+1495059325 c:\users\szali\onedrive\gra-projekt\order.h
+	<string>
+
+1495059410 source:c:\users\szali\onedrive\gra-projekt\order.cpp
+	"Order.h"
+	"TaskExecuteSystem.h"
+
+1496880018 source:c:\users\szali\onedrive\gra-projekt\treegenerationsystem.cpp
+	"TreeGenerationSystem.h"
+	<set>
+	"ComponentDestructible.h"
+	"Constants.h"
+	"Game.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"Map.h"
+	"RandomNumberGenerator.h"
+	<iostream>
+
+1496875898 c:\users\szali\onedrive\gra-projekt\treegenerationsystem.h
+	<vector>
+
+1495073366 c:\users\szali\onedrive\gra-projekt\taskexecutesystem.h
+	<memory>
+	<vector>
+	"Task.h"
+
+1496870625 c:\users\szali\onedrive\gra-projekt\task.h
+	<vector>
+	"Component.h"
+
+1496879023 source:c:\users\szali\onedrive\gra-projekt\task.cpp
+	"Task.h"
+	"ComponentLiftable.h"
+	"Constants.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"ComponentMovement.h"
+	"ComponentTaskExecute.h"
+	<iostream>
+
+1495073324 source:c:\users\szali\onedrive\gra-projekt\taskexecutecomponent.cpp
+	"TaskExecuteComponent.h"
+	"GameEntity.h"
+	<iostream>
+
+1495073319 c:\users\szali\onedrive\gra-projekt\taskexecutecomponent.h
+	<memory>
+	"Component.h"
+	"Task.h"
+
+1496876441 source:c:\users\szali\onedrive\gra-projekt\taskexecutesystem.cpp
+	"TaskExecuteSystem.h"
+	<typeinfo>
+	"ComponentDestructible.h"
+	"Constants.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"Map.h"
+	"ComponentTaskExecute.h"
+	<iostream>
+
+1492465831 c:\users\michael\skydrive\gra-projekt\taskexecutesystem.h
+	<memory>
+	<vector>
+	"Task.h"
+
+1492543630 c:\users\michael\skydrive\gra-projekt\task.h
+	"Component.h"
+
+1492543949 c:\users\michael\skydrive\gra-projekt\taskexecutecomponent.h
+	<memory>
+	"Component.h"
+	"Task.h"
+
+1492436162 source:c:\users\michael\skydrive\gra-projekt\gamestate.cpp
+	"GameState.h"
+
+1492436620 c:\users\michael\skydrive\gra-projekt\gamestate.h
+
+1492436151 source:c:\users\michael\skydrive\gra-projekt\gamestatemanager.cpp
+	"GameStateManager.h"
+
+1492436143 c:\users\michael\skydrive\gra-projekt\gamestatemanager.h
+
+1486739998 c:\sfml-2.4.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2ext.h>
+
+1492545925 source:c:\users\michael\skydrive\gra-projekt\task.cpp
+	"Task.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"MovementComponent.h"
+	"TaskExecuteComponent.h"
+	<iostream>
+
+1492544897 source:c:\users\michael\skydrive\gra-projekt\taskexecutecomponent.cpp
+	"TaskExecuteComponent.h"
+	"GameEntity.h"
+	<iostream>
+
+1492545845 source:c:\users\michael\skydrive\gra-projekt\taskexecutesystem.cpp
+	"TaskExecuteSystem.h"
+	<typeinfo>
+	"GameEntity.h"
+	"GameLibrary.h"
+	"Map.h"
+	"TaskExecuteComponent.h"
+	<iostream>
+
+1492436162 source:c:\users\szali\onedrive\gra-projekt\gamestate.cpp
+	"GameState.h"
+
+1492436620 c:\users\szali\onedrive\gra-projekt\gamestate.h
+
+1492436151 source:c:\users\szali\onedrive\gra-projekt\gamestatemanager.cpp
+	"GameStateManager.h"
+
+1492436143 c:\users\szali\onedrive\gra-projekt\gamestatemanager.h
+
+1495048111 c:\users\szali\onedrive\gra-projekt\console.h
+	<SFML/Graphics.hpp>
+
+1495046091 c:\users\szali\onedrive\gra-projekt\debugdisplaysystem.h
+	<SFML/Graphics.hpp>
+	"Map.h"
+
+1495102810 c:\users\szali\onedrive\gra-projekt\componentdestructible.h
+	"Component.h"
+
+1496872416 c:\users\szali\onedrive\gra-projekt\componentliftable.h
+	"Component.h"
+
+1493662655 c:\users\szali\onedrive\gra-projekt\loader.h
+	<atomic>
+
+1496870666 source:c:\users\szali\onedrive\gra-projekt\componentdestructible.cpp
+	"ComponentDestructible.h"
+
+1496872443 source:c:\users\szali\onedrive\gra-projekt\componentliftable.cpp
+	"ComponentLiftable.h"
+	"GameEntity.h"
+
+1496870500 source:c:\users\szali\onedrive\gra-projekt\debugdisplaysystem.cpp
+	"DebugDisplaySystem.h"
+	<iostream>
+	<typeinfo>
+	"ComponentDestructible.h"
+	"Constants.h"
+	"GameEntity.h"
+	"GameLibrary.h"
+	"ComponentMovement.h"
+	"RandomNumberGenerator.h"
+
+1496683614 source:c:\users\szali\onedrive\gra-projekt\loader.cpp
+	"Loader.h"
+	"SFML/Graphics.hpp"
+
+1496682437 source:c:\users\szali\onedrive\gra-projekt\console.cpp
+	"Console.h"
+	"Constants.h"
+	"DebugDisplaySystem.h"
+	"GameEntity.h"
+	"Map.h"
+	<iostream>
+
+1496868703 c:\users\szali\onedrive\gra-projekt\componentgraphics.h
+	"SFML/Graphics.hpp"
+	"Component.h"
+
+1496868677 source:c:\users\szali\onedrive\gra-projekt\componentgraphics.cpp
+	"GameEntity.h"
+	"ComponentGraphics.h"
+	<iostream>
+
+1496870878 source:c:\users\szali\onedrive\gra-projekt\componentmovement.cpp
+	"ComponentMovement.h"
+	<chrono>
+	<iostream>
+	<limits>
+	"GameEntity.h"
+	"Constants.h"
+	"GameLibrary.h"
+	"RandomNumberGenerator.h"
+
+1496868904 c:\users\szali\onedrive\gra-projekt\componentmovement.h
+	<vector>
+	<list>
+	"Component.h"
+	"Map.h"
+
+1496869010 source:c:\users\szali\onedrive\gra-projekt\componenttaskexecute.cpp
+	"ComponentTaskExecute.h"
+	"GameEntity.h"
+	<iostream>
+
+1496869210 c:\users\szali\onedrive\gra-projekt\componenttaskexecute.h
+	<memory>
+	"Component.h"
+	"Task.h"
+
